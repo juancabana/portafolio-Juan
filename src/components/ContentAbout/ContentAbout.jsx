@@ -36,6 +36,7 @@ class ContentAbout extends Component {
                 engineering. At the beginning of 2020 I met web development and
                 I became passionate about it. passionate about it. <br />
                 <br />
+              </p>
                 <section id="Skills">
                   <strong className="strong">Skills and interests:</strong>{" "}
                   <br />
@@ -52,7 +53,6 @@ class ContentAbout extends Component {
                     <li>Github</li>
                   </ul>
                 </section>
-              </p>
             </div>
             <div className="imageAbout">
               <div className="imgAbout"></div>
