@@ -11,7 +11,7 @@ class Header extends Component {
           </div>
 
           <div className="list-wrapper">
-            <Link className="links" to="/#ContentHome">
+            <Link className="links" to="/">
               Home.
             </Link>
             <a className="links" href="portafolio-Juan/#About">
