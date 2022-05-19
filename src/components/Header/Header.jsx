@@ -14,10 +14,10 @@ class Header extends Component {
             <Link className="links" to="/#ContentHome">
               Home.
             </Link>
-            <a className="links" href="#About">
+            <a className="links" href="/portafolio-Juan/#About">
               About.
             </a>
-            <a className="links" href="#Skills">
+            <a className="links" href="/portafolio-Juan/#Skills">
               Skills.
             </a>
   
