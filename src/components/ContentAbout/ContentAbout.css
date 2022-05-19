@@ -1,4 +1,5 @@
 .wrapper-ContentAbout {
+  padding-top: 70px;
   width: 100%;
   height: auto;
 
@@ -63,3 +64,4 @@
   background-image: url(./../../assets/img/WhatsApp\ Image\ 2021-05-02\ at\ 6.17.42\ PM.jpeg);
   background-size: cover;
 }
+

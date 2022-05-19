@@ -6,7 +6,7 @@ class ContentAbout extends Component {
     return (
       <div className="wrapper-ContentAbout">
         <div className="containerContentAbout">
-          <h2 className="title-About" >About me</h2>
+          <h2 className="title-About">About me</h2>
           <div className="ContentAbout">
             <div className="paragraphAbout">
               <p className="text-about">
@@ -34,7 +34,24 @@ class ContentAbout extends Component {
                 at the Adventist University of Colombia (UNAC), where I am
                 currently studying 5th semester of engineering in systems.
                 engineering. At the beginning of 2020 I met web development and
-                I became passionate about it. passionate about it.
+                I became passionate about it. passionate about it. <br />
+                <br />
+                <section id="Skills">
+                  <strong className="strong">Skills and interests:</strong>{" "}
+                  <br />
+                  <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>React</li>
+                    <li>GraphQL</li>
+                    <li>jQuery</li>
+                    <li>Bootstrap</li>
+                    <li>MaterialUI</li>
+                    <li>UI</li>
+                    <li>Github</li>
+                  </ul>
+                </section>
               </p>
             </div>
             <div className="imageAbout">

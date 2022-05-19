@@ -1,6 +1,6 @@
 .ContentContact {
   width: 100%;
-  height: calc(100vh - 70px - 50px);
+  height: calc(100vh - 70px - 70px);
   display: flex;
   text-align: center;
   align-items: center;
@@ -8,6 +8,7 @@
 }
 
 .wrapperContact {
+  padding-bottom: 60px;
   display: flex;
   flex-direction: column;
   justify-content: center;

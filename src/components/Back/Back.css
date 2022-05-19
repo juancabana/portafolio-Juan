@@ -1,0 +1,20 @@
+.Back {
+  display: flex;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+}
+
+.button-back{
+    margin-left: 70px;
+}
+
+.svg-back{
+    fill: aquamarine;
+}
+
+.svg-back:hover{
+    fill: rgb(88, 176, 146);
+    transition: 0.2s;
+    
+}

@@ -11,18 +11,16 @@ class Header extends Component {
           </div>
 
           <div className="list-wrapper">
-            <Link className="links" to="/">
+            <Link className="links" to="/#ContentHome">
               Home.
             </Link>
-            <Link className="links" to="/about">
+            <a className="links" href="/#About">
               About.
-            </Link>
-            <Link className="links" to="/skills">
+            </a>
+            <a className="links" href="/#Skills">
               Skills.
-            </Link>
-            <Link className="links" to="/proyects">
-              Proyects.
-            </Link>
+            </a>
+  
             <Link className="links" to="/contact
             ">
               Contact.
