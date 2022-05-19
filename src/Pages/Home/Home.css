@@ -1,3 +1,7 @@
-.Home{
-
+body::-webkit-scrollbar{
+    width: 10px;
+}
+body::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: aquamarine;
 }
